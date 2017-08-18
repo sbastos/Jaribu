@@ -1,0 +1,26 @@
+p {
+    color:black;
+    font-size:20px;
+}
+
+h1 {
+    color: black;
+    font-size: 30px;
+}    
+h2 {
+    color: black;
+    font-size:20px;
+    color:#ccffff;
+}   
+
+h3 {
+        color:black;
+    font-size:20px%;
+}            
+
+body {
+    background-color:#ccffff;
+    color:black;
+    margin:0 4px 0 0;
+    border:12px solid;
+} 
